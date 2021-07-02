@@ -1,0 +1,17 @@
+.logo img{
+    height:80px;
+}
+.header{
+    text-align: center;
+}
+nav{
+    background: #000;
+    padding: 7px 0px;
+}
+nav a{
+    color:white;
+    text-decoration: none;
+    margin-left: 40px;
+    font-weight: 400;
+    font-size: 30px;
+}

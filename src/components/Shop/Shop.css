@@ -1,0 +1,10 @@
+.shop{
+    display: flex;
+    margin-top: 10px;
+}
+.product{
+    width: 700px;
+    border-right: 1px solid orange;
+    margin-right: 7px;
+    padding-right: 7px;
+}
